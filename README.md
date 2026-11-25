@@ -1,4 +1,4 @@
-# Hi, I'm James Loyd 👋
+# Hi, I'm James Loyd P. Tapdasan👋
 BSIT student at CTU Naga, building data and AI tools.
 Looking for a **Data / AI internship**.
 
