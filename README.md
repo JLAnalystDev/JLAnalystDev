@@ -9,4 +9,4 @@ Looking for a **Data / AI internship**.
 - 🤖 **AI Data Analyst Agent** – ask questions about a dataset in plain English
 - 📉 **Customer Churn Intelligence** – predicts which customers will leave, and why
 
-📫jamesloydtapdasan@gmail.com · [LinkedIn](link)
+📫jamesloydtapdasan@gmail.com · [LinkedIn](www.linkedin.com/in/jltapdasan)
