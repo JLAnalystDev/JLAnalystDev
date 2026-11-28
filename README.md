@@ -7,6 +7,7 @@ Looking for a **Data / AI internship**.
 ### Featured Projects
 - 🤖 **[AI Data Analyst Agent](https://github.com/JLAnalystDev/AI-Data-Analyst-Agent)** – ask questions about a dataset in plain English
 - 📉 **[Customer Churn Intelligence](https://github.com/JLAnalystDev/Customer-Churn-Intelligence)** – predicts which customers will leave, and why
+- 🛒 [Brazilian E-Commerce Analytics](https://github.com/JLAnalystDev/Brazilian-E-commerce-Dataset) – 100K Olist orders analyzed in Python and SQL, with an interactive dashboard showing how late delivery drives low reviews
 - 🌱 **[Aquaponics Monitoring System](https://github.com/JLAnalystDev/Aquaponics-IOT-Management-System)** – real-time sensor monitoring and automation for fish and plant health
 
 🌐 [Portfolio](https://jl.analyst.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jltapdasan) · 📫 jamesloydtapdasan@gmail.com
